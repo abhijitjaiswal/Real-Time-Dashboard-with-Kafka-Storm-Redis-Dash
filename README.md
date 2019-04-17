@@ -5,9 +5,9 @@ This project creates a real time dashboard for Tweet's languages.
 ## Requirements:
 1. Python 3.7 (preferrably)
    Install following libraries:
-   a. pip install Tweepy
-   b. pip install Dash
-   c. pip install pykafka
+   "pip install Tweepy", 
+   "pip install Dash",
+   "pip install pykafka"
 2. Apache Kafka: kafka_2.12-2.2.0 or above (get it from https://kafka.apache.org/downloads)
 3. Apache Storm: apache-storm-1.2.2 ( get it from https://storm.apache.org/downloads.html)
 4. Streamparse: (This is a python library for Storm, Quickstart guide https://streamparse.readthedocs.io/en/v2.1.0/quickstart.html)
