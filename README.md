@@ -2,6 +2,10 @@
 
 This project creates a real time dashboard for Tweet's languages count for topic "cricket". This topic can be changed in "kafka_tweet_client.py" file by the topic of your interest.
 
+## Flowchart
+
+![alt text](images/flowchart.png?raw=true "Flowchart")
+
 ## Requirements:
 1. Python 3.7 (preferrably)
    Install following libraries:
