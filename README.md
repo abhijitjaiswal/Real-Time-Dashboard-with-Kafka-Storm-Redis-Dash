@@ -1,6 +1,6 @@
-# Real Time Dashboard for Tweet Languages Count for Topic "Cricket"
+# Real Time Dashboard using Kafka, Storm, Redis and Dash
 
-This project creates a real time dashboard for Tweet's languages.
+This project creates a real time dashboard for Tweet's languages count for topic "cricket". This topic can be changed in "kafka_tweet_client.py" file by the topic of your interest.
 
 ## Requirements:
 1. Python 3.7 (preferrably)
