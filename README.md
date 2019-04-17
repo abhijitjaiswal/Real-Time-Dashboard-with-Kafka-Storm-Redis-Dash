@@ -1,4 +1,4 @@
-# Real Time Dashboard for Tweet Languages
+# Real Time Dashboard for Tweet Languages Count for Topic "Cricket"
 
 This project creates a real time dashboard for Tweet's languages.
 
