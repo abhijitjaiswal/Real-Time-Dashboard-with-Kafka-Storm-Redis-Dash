@@ -40,6 +40,6 @@ Once all the things are installed or downloaded.
 
 9. Once the redis server has the hashset, run the "app_redis.py" using "python app_redis.py" command and navigate to "http://127.0.0.1:8050/" on your web browser. You should see the following graph which keeps on updating every 5 seconds.
 
-[Alt text](images/chart.png?raw=true "Title")
+![alt text](images/chart.png?raw=true "Title")
 
 ###  Note: This is still work in progress, please let me know for issues.
